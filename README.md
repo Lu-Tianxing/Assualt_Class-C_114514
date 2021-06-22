@@ -11,12 +11,16 @@ Windows存档位置在C:\Users\[你的用户名]\AppData\Local\Daedalic Entertai
 
 上传方式：
 
-1.在Tag Version处注明第几天存档（Day[日期]）
+1.点击右侧的Release。
 
-2.在Release Title处注明结束时日期和时间（[年]-[月]-[日]_[时间]）
+2.点击Draft a new release。
 
-3.在Describe This Release处写好没有意义的废话附加介绍（[]年[]月[]日[]时[]分结束时的存档。）【我觉得这里中括号里不写你们也知道应该写啥】
+3.在Tag Version处注明第几天存档（Day[日期]）
 
-4.在Attach Binaries By dropping them here or selecting them处上传当日存档，拖动文件至此或点击方框寻找文件皆可。
+4.在Release Title处注明结束时日期和时间（[年]-[月]-[日]_[时间]）
 
-5.点击Update Release上传。
+5.在Describe This Release处写好没有意义的废话附加介绍（[]年[]月[]日[]时[]分结束时的存档。）【我觉得这里中括号里不写你们也知道应该写啥】
+
+6.在Attach Binaries By dropping them here or selecting them处上传当日存档，拖动文件至此或点击方框寻找文件皆可。
+
+7.点击Update Release上传。
